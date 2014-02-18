@@ -1,0 +1,60 @@
+body {
+  font-family: "Bodoni MT", serif;
+	font-size: 14px;
+	background-color: #000019;
+}
+
+h1 {
+  left: 0;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  color: white;
+  font-size: 65px;  
+}
+
+img {
+		position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption {
+	color:white;
+	font-size: 15px;
+	text-align: center
+}
+
+h2 {
+  color: white;
+  font-size: 40px;
+  font-weight: 900;
+  text-align: center;
+}
+
+p {
+	color:grey;
+	font-size: 15px;
+	text-align: center;
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited { 
+	text-decoration: none; 
+	color: white;
+}
+
+a:hover { 
+	text-decoration: none; 
+	color: white;
+}
+
+a:active {
+  text-decoration: none;
+  color: white;
+}

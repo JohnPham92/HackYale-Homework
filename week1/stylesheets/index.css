@@ -1,0 +1,50 @@
+html { 
+  background: url(../images/bg.jpg) no-repeat center center fixed; 
+  background-size: cover;
+  -webkit-filter: contrast(150%);
+}
+
+.title-box {  
+  position: absolute;
+  top: 10%;
+  right: 2%;
+  text-align: right;
+  font-size: 45px;
+  color:white;
+  font-family: "Bodoni MT", serif;
+}
+
+.main-link {
+  position:absolute;
+  top: 35%;
+  right: 12%;
+  text-alight: right;
+  color:white;
+  font-family: "Bodoni MT"; serif;
+  line-height: 300%;
+}
+
+a:link {
+  text-decoration: none;
+  color: steelblue;
+}
+
+a:visited { 
+	text-decoration: none; 
+	color: steelblue;
+}
+
+a:hover { 
+	text-decoration: none; 
+	color: steelblue;
+}
+
+a:active {
+  text-decoration: none;
+  color: steelblue;
+}
+
+li {
+  list-style-type: none;
+  font-size: 30px;
+}

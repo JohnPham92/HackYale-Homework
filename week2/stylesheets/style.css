@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #fafafa;
+	font: 16px/20px 'Helvetica sans-serif'
+}
+
+p{
+	margin-bottom: 10px;
+}
+
+.background :{
+	border: 1 pt solid #ddd;
+	background-color: blue;
+	padding: 10px;
+}
+
+.i-b {
+	diplay: inline-block;
+	margin-right: 10px
+	padding: 10px;
+	width: 200px;
+	line-height: 100px;
+	text-align: center;
+	font-size: 30px;
+}
